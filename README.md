@@ -2,6 +2,8 @@
 
 [自我介绍](https://mikasaeureka.github.io/intro/)
 
+[做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)
+
 参考内容
 
 uniapp打包成H5部署到服务器教程 https://www.jianshu.com/p/dee3043bc994
