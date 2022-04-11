@@ -6,6 +6,8 @@
 
 参考内容
 
+[自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)
+
 uniapp打包成H5部署到服务器教程 https://www.jianshu.com/p/dee3043bc994
 
 关联仓库页
