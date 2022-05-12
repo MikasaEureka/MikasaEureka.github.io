@@ -5,6 +5,7 @@
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)
 
 - [docker 学习](https://yeasy.gitbook.io/docker_practice/)
+- [英语等学习资源](https://tuostudy.com/)
 
 ### 参考内容
 
