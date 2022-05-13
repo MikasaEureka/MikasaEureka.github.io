@@ -6,6 +6,7 @@
 
 - [docker 学习](https://yeasy.gitbook.io/docker_practice/)
 - [英语等学习资源](https://tuostudy.com/)
+- [pkg提取静态图片](https://github.com/notscuffed/repkg)
 
 ### 参考内容
 
