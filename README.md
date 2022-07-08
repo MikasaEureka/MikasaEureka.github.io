@@ -9,10 +9,9 @@
 
 ### 参考内容
 
+- [Github Pages 官方文档](https://docs.github.com/cn/pages)  
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
 - [uniapp打包成H5部署到服务器教程](https://www.jianshu.com/p/dee3043bc994)  
 - [关联仓库页](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)  
-
-#### 提示
 
 > 提示： 如果存在 index.html，则将使用它而不是 index.md。 如果没有 index.html 或 index.md，将使用 README.md。
