@@ -29,8 +29,9 @@ class ServerJiangNotifier(INotifier):
         self._sckey = sckey
         self._sess = sess
 
-    def notify(self, *, success, msg, data, username, name) -> None:
+    def notify(self, *, msg1, msg2) -> None:
         title_str,body_str='',''
+        # body_str或title_str 中可以自由组合传进来的msg1/msg2
         
         # 调用 Server 酱接口发送消息
         sc_res_raw = self._sess.post(
@@ -41,3 +42,21 @@ class ServerJiangNotifier(INotifier):
             },
             timeout=TIMEOUT_SECOND,
         )
+
+        
+# #发送调用部分
+# # server bot发送配置
+# from server_bot import *
+# SERVER_KEY = eval(os.environ['SERVER_KEY'])
+try:
+	notifier = ServerJiangNotifier(
+		sckey=SERVER_KEY, # server酱的发送key，需要在外面设置好
+		sess=requests.Session()
+	)
+	print(f'通过「{notifier.PLATFORM_NAME}」给用户发送通知')
+	notifier.notify(
+		msg1 = message1,
+        msg2 = message2
+	)
+except:
+	print(r"可能由于 「SERVER_KEY未设置」 或 「SERVER_KEY不正确」 或 「网络波动」 ，SERVER酱发送失败")
