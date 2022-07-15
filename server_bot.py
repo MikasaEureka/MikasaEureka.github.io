@@ -44,10 +44,10 @@ class ServerJiangNotifier(INotifier):
         )
 
         
-# #发送调用部分
+# #发送调用部分,单独使用时需去掉def部分，并包含下面注释部分
 # # server bot发送配置
 # from server_bot import *
-# SERVER_KEY = eval(os.environ['SERVER_KEY'])
+# SERVER_KEY = eval(os.environ['SERVER_KEY']) #github actions的示例
 def serverbot(SERVER_KEY, message1, messagen):
 	try:
 		notifier = ServerJiangNotifier(
