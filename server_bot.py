@@ -12,11 +12,11 @@ class INotifier(metaclass=ABCMeta):
         :return: 通知平台名
         """
     @abstractmethod
-    def notify(self, *, msg1, msg2) -> None:
+    def notify(self, *, msg1, msgn) -> None:
         """
         通过该平台通知用户操作成功的消息。失败时将抛出各种异常。
-        :param success: 表示是否成功
-        :param msg: 成功时表示服务器的返回值，失败时表示失败原因；None 表示没有上述内容
+        :param msg1: 表示消息1
+        :param msgn: 当消息内容超过1个时可采用多消息，或者合并消息到msg1中
         :return: None
         """
 
@@ -29,9 +29,9 @@ class ServerJiangNotifier(INotifier):
         self._sckey = sckey
         self._sess = sess
 
-    def notify(self, *, msg1, msg2) -> None:
+    def notify(self, *, msg1, msgn) -> None:
         title_str,body_str='',''
-        # body_str或title_str 中可以自由组合传进来的msg1/msg2
+        # body_str或title_str 中可以自由组合传进来的msg1/msgn
         
         # 调用 Server 酱接口发送消息
         sc_res_raw = self._sess.post(
@@ -48,15 +48,16 @@ class ServerJiangNotifier(INotifier):
 # # server bot发送配置
 # from server_bot import *
 # SERVER_KEY = eval(os.environ['SERVER_KEY'])
-try:
-	notifier = ServerJiangNotifier(
-		sckey=SERVER_KEY, # server酱的发送key，需要在外面设置好
-		sess=requests.Session()
-	)
-	print(f'通过「{notifier.PLATFORM_NAME}」给用户发送通知')
-	notifier.notify(
-		msg1 = message1,
-        msg2 = message2
-	)
-except:
-	print(r"可能由于 「SERVER_KEY未设置」 或 「SERVER_KEY不正确」 或 「网络波动」 ，SERVER酱发送失败")
+def serverbot(SERVER_KEY, message1, messagen):
+	try:
+		notifier = ServerJiangNotifier(
+			sckey=SERVER_KEY, # server酱的发送key，需要在外面设置好
+			sess=requests.Session()
+		)
+		print(f'通过「{notifier.PLATFORM_NAME}」给用户发送通知')
+		notifier.notify(
+			msg1 = message1,
+			msgn = messagen
+		)
+	except:
+		print(r"可能由于 「SERVER_KEY未设置」 或 「SERVER_KEY不正确」 或 「网络波动」 ，SERVER酱发送失败")
