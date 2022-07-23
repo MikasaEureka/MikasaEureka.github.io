@@ -18,7 +18,8 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [英语等学习资源](https://tuostudy.com/)  
 - [pkg提取静态图片](https://github.com/notscuffed/repkg)  
 - [网络7层协议学习](https://xiaolincoding.com/)  
-- [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)
+- [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)  
+- [Github actions 优化 profile](https://github.com/lowlighter/metrics)
 
 ### Github profiles
 
