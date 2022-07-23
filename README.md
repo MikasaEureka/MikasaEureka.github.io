@@ -1,11 +1,24 @@
 # 学习网站
 
+If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://MikasaEureka.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor.html](https://MikasaEureka.github.io/sponsor.html).
+
+<!--START_SECTION:sponsors-->
+<a href="https://MikasaEureka.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!--
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+  </a>
+</p>
+<!--END_SECTION:sponsors-->
+
 - [自我介绍](https://mikasaeureka.github.io/intro/)  
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)  
 - [docker 学习](https://yeasy.gitbook.io/docker_practice/)  
 - [英语等学习资源](https://tuostudy.com/)  
 - [pkg提取静态图片](https://github.com/notscuffed/repkg)  
 - [网络7层协议学习](https://xiaolincoding.com/)  
+- [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)
 
 ### 参考内容
 
