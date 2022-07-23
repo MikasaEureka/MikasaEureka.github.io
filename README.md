@@ -20,6 +20,14 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [网络7层协议学习](https://xiaolincoding.com/)  
 - [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)
 
+### Github profiles
+
+ 参考仓库：  
+ https://github.com/younger-1/younger-1
+ https://github.com/sun0225SUN/sun0225SUN
+ https://github.com/Charmve/Charmve
+ 
+
 ### 参考内容
 
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
