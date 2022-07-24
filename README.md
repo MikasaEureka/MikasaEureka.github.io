@@ -2,15 +2,14 @@
 - [ ] 
 If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://MikasaEureka.github.io/sponsor/sponsor.html) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor/sponsor.html](https://MikasaEureka.github.io/sponsor.html).
 
+<div align="center">
 <!--START_SECTION:sponsors-->
-<a href="https://MikasaEureka.github.io/sponsor/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<!--
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
+<a href="https://MikasaEureka.github.io/sponsor/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="20%" align="center"></a>
+<a href="https://MikasaEureka.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank">
+<img src="sponsor/playagame.png" alt="Play a Game with Me" width="20%" align="center">
+</a>
 <!--END_SECTION:sponsors-->
+</div>
 
 - [自我介绍](https://mikasaeureka.github.io/intro/)  
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)  
@@ -22,12 +21,10 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [Github actions 优化 profile](https://github.com/lowlighter/metrics)
 - [Github Markdown使用](https://www.cnblogs.com/longronglang/p/8453047.html)  
 
-### Github profiles
-
- 参考仓库：  
- https://github.com/younger-1/younger-1
- https://github.com/sun0225SUN/sun0225SUN
- https://github.com/Charmve/Charmve
+### Github profiles参考
+ https://github.com/younger-1/younger-1  
+ https://github.com/sun0225SUN/sun0225SUN  
+ https://github.com/Charmve/Charmve  
  
 
 ### 参考内容
