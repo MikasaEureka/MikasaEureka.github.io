@@ -13,7 +13,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 
 <!--END_SECTION:sponsors-->
 </div>
-<a href="https://github.com/MikasaEureka/MikasaEureka/README.md" target="_blank">
+<a href="https://github.com/MikasaEureka/MikasaEureka/blob/main/README.md" target="_blank">
  <img src="image/aboutme.jpg" alt="About me" width="20%" align="right">
 </a>
 
