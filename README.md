@@ -1,6 +1,6 @@
 # 学习网站
 - [ ] 
-If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://MikasaEureka.github.io/sponsor/sponsor.html) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor/sponsor.html](https://MikasaEureka.github.io/sponsor.html).
+If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://MikasaEureka.github.io/sponsor/sponsor.html) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor/sponsor.html](https://MikasaEureka.github.io/sponsor/sponsor.html).
 
 <div align="center">
 <!--START_SECTION:sponsors-->
