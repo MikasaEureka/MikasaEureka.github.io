@@ -4,12 +4,18 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 
 <div align="center">
 <!--START_SECTION:sponsors-->
-<a href="https://MikasaEureka.github.io/sponsor/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="20%" align="center"></a>
-<a href="https://MikasaEureka.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank">
-<img src="sponsor/playagame.png" alt="Play a Game with Me" width="20%" align="center">
+<a href="https://MikasaEureka.github.io/sponsor/sponsor.html" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="20%" align="topLeft">
 </a>
+<a href="https://MikasaEureka.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank">
+ <img src="sponsor/playagame.png" alt="Play a Game with Me" width="20%" align="bottomLeft">
+</a>
+
 <!--END_SECTION:sponsors-->
 </div>
+<a href="https://github.com/MikasaEureka/MikasaEureka/README.md" target="_blank">
+ <img src="image/aboutme.jpg" alt="About me" width="20%" align="right">
+</a>
 
 - [自我介绍](https://mikasaeureka.github.io/intro/)  
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)  
