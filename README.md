@@ -17,6 +17,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
  <img src="image/aboutme.jpg" alt="About me" width="20%" align="right">
 </a>
 
+- []()
 - [自我介绍](https://mikasaeureka.github.io/intro/)  
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)  
 - [docker 学习](https://yeasy.gitbook.io/docker_practice/)  
@@ -26,6 +27,10 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)  
 - [Github actions 优化 profile](https://github.com/lowlighter/metrics)
 - [Github Markdown使用](https://www.cnblogs.com/longronglang/p/8453047.html)  
+- [GoLang学习](https://github.com/aceld/golang)
+- [Github学习](https://github.phodal.com/)
+- [小林coding](https://xiaolincoding.com/)
+- []()
 
 ### Github profiles参考
  https://github.com/younger-1/younger-1  
