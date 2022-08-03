@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<title></title>
+<script type="text/javascript">
+        <!-- 使用方法：新建txt文档,将后缀改为html 拷贝这里所有类容 -->
+        <!-- 可将下面的网址替换为自己的博客首页,或其它地址都可以 -->
+	window.location.href="https://mikasaeureka.github.io/";
+</script>
+<!-- 
+    PHP跑python代码 https://www.delftstack.com/zh/howto/python/python-in-html/
+ -->
+<?PHP
+    echo shell_exec("python script.py");
+?>
+script.py
+a = 2000
+b = 21
+print(f"a = {a}")
+print(f"b = {b}")
+print(f"a + b = {a + b}")
+
+带参数
+<?PHP
+    echo shell_exec("python script.py \"Parameter #1\" \"Parameter #2\"");
+?>
+import sys
+a = sys.argv[1]
+b = sys.argv[2]
+print(f"a = {a}")
+print(f"b = {b}")
+print(f"a + b = {a + b}")
+
+<!-- 
+    pyhtml跑python代码 https://blog.csdn.net/TeamCode/article/details/124841016
+ -->
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+body里面嵌入<py-script> </py-script> 
+安装环境
+<py-env>
+- numpy
+- matplotlib
+</py-env>
+
+</head>
+<body>
+
+</body>
+</html>
