@@ -30,7 +30,8 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [GoLang学习](https://github.com/aceld/golang)
 - [Github学习](https://github.phodal.com/)
 - [小林coding](https://xiaolincoding.com/)
-- [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)
+- [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)  
+- [edge扩展大赛](https://edgecontest.microsoft.com/index.html)
 
 ### Github profiles参考
  https://github.com/younger-1/younger-1  
