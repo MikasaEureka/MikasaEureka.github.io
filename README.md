@@ -25,15 +25,22 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [pkg提取静态图片](https://github.com/notscuffed/repkg)  
 - [网络7层协议学习](https://xiaolincoding.com/)  
 - [网页视觉CV](https://mikasaeureka.github.io/L0CV-web/)  
-- [Github actions 优化 profile](https://github.com/lowlighter/metrics)
 - [Github Markdown使用](https://www.cnblogs.com/longronglang/p/8453047.html)  
 - [GoLang学习](https://github.com/aceld/golang)
 - [Github学习](https://github.phodal.com/)
 - [小林coding](https://xiaolincoding.com/)
 - [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)  
-- [edge扩展大赛](https://edgecontest.microsoft.com/index.html)
+- [edge扩展大赛](https://edgecontest.microsoft.com/index.html)  
+- [webhook入门](https://www.cnblogs.com/wqbin/p/13150805.html)  
 
-### Github profiles参考
+
+### Github actions入门  
+- [github actions 入门](https://juejin.cn/post/6960126908180725773)  
+- [Github actions 优化 profile](https://github.com/lowlighter/metrics)
+- [Github actions 进阶](https://www.jianshu.com/p/022086076190)
+- [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+
+### Github profiles参考  
  https://github.com/younger-1/younger-1  
  https://github.com/sun0225SUN/sun0225SUN  
  https://github.com/Charmve/Charmve  
