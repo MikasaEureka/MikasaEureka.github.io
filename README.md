@@ -40,6 +40,10 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [Github actions 进阶](https://www.jianshu.com/p/022086076190)
 - [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
+> tips
+> - [GitHub Actions Cron 不保证按时执行](https://zhuanlan.zhihu.com/p/369780435) 用webhook解决会好一点
+> - [Github Action的 Schedule 运行不准时的解决办法](https://zhuanlan.zhihu.com/p/379365305)
+
 ### Github profiles参考  
  https://github.com/younger-1/younger-1  
  https://github.com/sun0225SUN/sun0225SUN  
