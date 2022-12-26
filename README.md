@@ -17,8 +17,9 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
  <img src="image/aboutme.jpg" alt="About me" width="20%" align="right">
 </a>
 
+---
 > 提示： 如果存在 index.html，则将使用它而不是 index.md。 如果没有 index.html 或 index.md，将使用 README.md。
-
+---
 - []()
 - [自我介绍](https://mikasaeureka.github.io/intro/)  
 - [做饭指南](https://mikasaeureka.github.io/How2Cook-Home/)  
@@ -34,7 +35,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)  
 - [edge扩展大赛](https://edgecontest.microsoft.com/index.html)  
 - [webhook入门](https://www.cnblogs.com/wqbin/p/13150805.html)  
-
+---
 ### Github actions入门  
 - [github actions 入门](https://juejin.cn/post/6960126908180725773)  
 - [Github actions 优化 profile](https://github.com/lowlighter/metrics)
@@ -45,25 +46,25 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [Github Action的 Schedule 运行不准时的解决办法](https://zhuanlan.zhihu.com/p/379365305)
 > - [一篇教你代码同步 Github 和 Gitee](https://github.com/mqyqingfeng/Blog/issues/236)
 > - [Gitee 自动部署 Pages](https://developer.aliyun.com/article/897966)
-
+---
 ### VPS入门  
 > - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
 > - [Webhooks和Docker实现持续部署](https://www.jianshu.com/p/e71a6f019c7f)
 > - [Linux VPS常用命令集合](https://jiami.dog/2736.html)
-
+---
 ### Github profiles参考  
  https://github.com/younger-1/younger-1  
  https://github.com/sun0225SUN/sun0225SUN  
  https://github.com/Charmve/Charmve  
- 
+---
 ### 资源汇总  
 > - [加密狗-好多资源](https://jiami.dog/)
-
+---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
 - [uniapp打包成H5部署到服务器教程](https://www.jianshu.com/p/dee3043bc994)  
 - [关联仓库页](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)  
-
+---
 ### 兼职小技巧
 - [利用Fiverr网站赚钱](https://jiami.dog/3772.html)
