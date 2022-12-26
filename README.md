@@ -43,12 +43,19 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > tips
 > - [GitHub Actions Cron 不保证按时执行](https://zhuanlan.zhihu.com/p/369780435) 用webhook解决会好一点
 > - [Github Action的 Schedule 运行不准时的解决办法](https://zhuanlan.zhihu.com/p/379365305)
+> - [一篇教你代码同步 Github 和 Gitee](https://github.com/mqyqingfeng/Blog/issues/236)
+> - [Gitee 自动部署 Pages](https://developer.aliyun.com/article/897966)
+
+### AWS入门  
+> - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
 
 ### Github profiles参考  
  https://github.com/younger-1/younger-1  
  https://github.com/sun0225SUN/sun0225SUN  
  https://github.com/Charmve/Charmve  
  
+### 资源汇总  
+> - [加密狗-好多资源](https://jiami.dog/)
 
 ### 参考内容
 
