@@ -60,6 +60,9 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 ### 资源汇总  
 > - [加密狗-好多资源](https://jiami.dog/)
 ---
+### 自动化生活  
+> - [ddddocr 进行文字+数字验证码识别](https://blog.51cto.com/royfans/5692943)
+---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
