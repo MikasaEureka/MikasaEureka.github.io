@@ -59,6 +59,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 ---
 ### 资源汇总  
 > - [加密狗-好多资源](https://jiami.dog/)
+> - [怎么在Python里使用UTF-8编码](https://zhuanlan.zhihu.com/p/260390949)
 ---
 ### 自动化生活  
 > - [ddddocr 进行文字+数字验证码识别](https://blog.51cto.com/royfans/5692943) 
