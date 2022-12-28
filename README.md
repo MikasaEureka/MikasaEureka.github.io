@@ -45,7 +45,9 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [GitHub Actions Cron 不保证按时执行](https://zhuanlan.zhihu.com/p/369780435) 用webhook解决会好一点
 > - [Github Action的 Schedule 运行不准时的解决办法](https://zhuanlan.zhihu.com/p/379365305)
 > - [一篇教你代码同步 Github 和 Gitee](https://github.com/mqyqingfeng/Blog/issues/236)
-> - [Gitee 自动部署 Pages](https://developer.aliyun.com/article/897966)
+> - [Gitee 自动部署 Pages](https://developer.aliyun.com/article/897966) 
+> - [使用Github Webhooks 实现服务器代码自动更新部署](https://zhuanlan.zhihu.com/p/108680675)
+> - [WebHook结合GitHub Action与Coding实现博客持续集成部署到个人服务器](https://blog.csdn.net/weixin_44777255/article/details/120276596)
 ---
 ### VPS入门  
 > - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
@@ -70,6 +72,8 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
 - [uniapp打包成H5部署到服务器教程](https://www.jianshu.com/p/dee3043bc994)  
 - [关联仓库页](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)  
+- [Python 如何禁用stdout/stderr输出](https://zhuanlan.zhihu.com/p/186276214)
 ---
 ### 兼职小技巧
 - [利用Fiverr网站赚钱](https://jiami.dog/3772.html)
+- [购物返利topcashback](https://www.topcashback.cn/)
