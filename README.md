@@ -67,6 +67,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 ### 自动化生活  
 > - [ddddocr 进行文字+数字验证码识别](https://blog.51cto.com/royfans/5692943) 
 > - [request类中常用的参数](https://www.cnblogs.com/caoyinshan/p/12072847.html)
+> - [在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)
 ---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
