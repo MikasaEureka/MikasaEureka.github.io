@@ -46,6 +46,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [Github Action的 Schedule 运行不准时的解决办法](https://zhuanlan.zhihu.com/p/379365305)
 > - [一篇教你代码同步 Github 和 Gitee](https://github.com/mqyqingfeng/Blog/issues/236)
 > - [Gitee 自动部署 Pages](https://developer.aliyun.com/article/897966) 
+> - [GitHub与Gitee双向同步](https://www.bahuangshanren.tech/2021-4/)
 > - [使用Github Webhooks 实现服务器代码自动更新部署](https://zhuanlan.zhihu.com/p/108680675)
 > - [WebHook结合GitHub Action与Coding实现博客持续集成部署到个人服务器](https://blog.csdn.net/weixin_44777255/article/details/120276596)
 ---
