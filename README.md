@@ -68,6 +68,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [ddddocr 进行文字+数字验证码识别](https://blog.51cto.com/royfans/5692943) 
 > - [request类中常用的参数](https://www.cnblogs.com/caoyinshan/p/12072847.html)
 > - [在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)
+> - [使用python selenium解决谷歌验证码(reCAPTCHA)](https://blog.csdn.net/weixin_42536182/article/details/121392094)
 ---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
