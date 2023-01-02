@@ -49,6 +49,8 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [GitHub与Gitee双向同步](https://www.bahuangshanren.tech/2021-4/)
 > - [使用Github Webhooks 实现服务器代码自动更新部署](https://zhuanlan.zhihu.com/p/108680675)
 > - [WebHook结合GitHub Action与Coding实现博客持续集成部署到个人服务器](https://blog.csdn.net/weixin_44777255/article/details/120276596)
+> - [用 GitHub Actions 进行持续集成](https://course.rs/test/ci.html)
+> - [10 个你该了解的 GitHub Actions 进阶技巧](https://www.jianshu.com/p/022086076190)
 ---
 ### VPS入门  
 > - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
