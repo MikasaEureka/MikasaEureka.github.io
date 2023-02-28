@@ -72,6 +72,10 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)
 > - [使用python selenium解决谷歌验证码(reCAPTCHA)](https://blog.csdn.net/weixin_42536182/article/details/121392094)
 ---
+### 工具网站汇总  
+> - [前沿AI集合-国外](https://www.futurepedia.io/)
+> - [前沿AI集合-国内](https://www.ainav.cn/)
+---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
