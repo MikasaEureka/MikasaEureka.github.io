@@ -94,6 +94,7 @@ fly.io
 render.com
 railway.app
 vercel.com
+> > > [render 部署范例](https://www.freecodecamp.org/chinese/news/how-to-deploy-nodejs-application-with-render/)
 ---
 ### 小程序
 > - [白话uni-app](https://ask.dcloud.net.cn/article/35657)
