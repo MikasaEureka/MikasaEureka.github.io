@@ -35,7 +35,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)  
 - [edge扩展大赛](https://edgecontest.microsoft.com/index.html)  
 - [webhook入门](https://www.cnblogs.com/wqbin/p/13150805.html)  
-- [IDM下载资源](https://MikasaEureka.github.io/DL-IDM.md)
+- [IDM下载资源](https://MikasaEureka.github.io/DL-IDM.md)  
 ---
 ### Github actions入门  
 - [github actions 入门](https://juejin.cn/post/6960126908180725773)  
@@ -51,12 +51,12 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [使用Github Webhooks 实现服务器代码自动更新部署](https://zhuanlan.zhihu.com/p/108680675)
 > - [WebHook结合GitHub Action与Coding实现博客持续集成部署到个人服务器](https://blog.csdn.net/weixin_44777255/article/details/120276596)
 > - [用 GitHub Actions 进行持续集成](https://course.rs/test/ci.html)
-> - [10 个你该了解的 GitHub Actions 进阶技巧](https://www.jianshu.com/p/022086076190)
+> - [10 个你该了解的 GitHub Actions 进阶技巧](https://www.jianshu.com/p/022086076190)  
 ---
 ### VPS入门  
 > - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
 > - [Webhooks和Docker实现持续部署](https://www.jianshu.com/p/e71a6f019c7f)
-> - [Linux VPS常用命令集合](https://jiami.dog/2736.html)
+> - [Linux VPS常用命令集合](https://jiami.dog/2736.html)  
 ---
 ### Github profiles参考  
  https://github.com/younger-1/younger-1  
@@ -65,28 +65,28 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 ---
 ### 资源汇总  
 > - [加密狗-好多资源](https://jiami.dog/)
-> - [怎么在Python里使用UTF-8编码](https://zhuanlan.zhihu.com/p/260390949)
+> - [怎么在Python里使用UTF-8编码](https://zhuanlan.zhihu.com/p/260390949)  
 ---
 ### 自动化生活  
 > - [ddddocr 进行文字+数字验证码识别](https://blog.51cto.com/royfans/5692943) 
 > - [request类中常用的参数](https://www.cnblogs.com/caoyinshan/p/12072847.html)
 > - [在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)
-> - [使用python selenium解决谷歌验证码(reCAPTCHA)](https://blog.csdn.net/weixin_42536182/article/details/121392094)
+> - [使用python selenium解决谷歌验证码(reCAPTCHA)](https://blog.csdn.net/weixin_42536182/article/details/121392094)  
 ---
 ### 工具网站汇总  
 > - [前沿AI集合-国外](https://www.futurepedia.io/)
-> - [前沿AI集合-国内](https://www.ainav.cn/)
+> - [前沿AI集合-国内](https://www.ainav.cn/)  
 ---
 ### 参考内容  
 - [Github Pages 官方文档](https://docs.github.com/cn/pages)  
 - [自我介绍-修改说明](https://github.com/Jiaocz/Personal-page/wiki)  
 - [uniapp打包成H5部署到服务器教程](https://www.jianshu.com/p/dee3043bc994)  
 - [关联仓库页](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)  
-- [Python 如何禁用stdout/stderr输出](https://zhuanlan.zhihu.com/p/186276214)
+- [Python 如何禁用stdout/stderr输出](https://zhuanlan.zhihu.com/p/186276214)  
 ---
 ### 兼职小技巧
 - [利用Fiverr网站赚钱](https://jiami.dog/3772.html)
-- [购物返利topcashback](https://www.topcashback.cn/ref/MikasaEureka)
+- [购物返利topcashback](https://www.topcashback.cn/ref/MikasaEureka)  
 ---
 ### AI小助手
 > - [白嫖chat--gpt](https://m.php.cn/ai/515772.html) 
@@ -95,7 +95,7 @@ fly.io
 render.com
 railway.app
 vercel.com
-> > > [render 部署范例](https://www.freecodecamp.org/chinese/news/how-to-deploy-nodejs-application-with-render/)
+> > > [render 部署范例](https://www.freecodecamp.org/chinese/news/how-to-deploy-nodejs-application-with-render/)  
 ---
 ### 小程序
 > - [白话uni-app](https://ask.dcloud.net.cn/article/35657)
