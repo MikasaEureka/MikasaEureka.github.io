@@ -35,6 +35,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 - [pyhtml跑python代码](https://blog.csdn.net/TeamCode/article/details/124841016)  
 - [edge扩展大赛](https://edgecontest.microsoft.com/index.html)  
 - [webhook入门](https://www.cnblogs.com/wqbin/p/13150805.html)  
+- [IDM下载资源](https://MikasaEureka.github.io/DL-IDM.md)
 ---
 ### Github actions入门  
 - [github actions 入门](https://juejin.cn/post/6960126908180725773)  
