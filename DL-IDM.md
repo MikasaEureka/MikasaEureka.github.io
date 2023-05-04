@@ -3,8 +3,8 @@
 ## needs  
 1. [IDM](https://www.internetdownloadmanager.com/download.html)  
 1. EDGE  
-1. EDGE extension- [IDM Integration Module](edge://extensions/?id=llbjbkhnmlidjebalopleeepgdfgcpec)(optional)  
-1. EDGE extension- [Tamper monkey(TM)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)  
+1. EDGE extension - [IDM Integration Module](edge://extensions/?id=llbjbkhnmlidjebalopleeepgdfgcpec)(optional)  
+1. EDGE extension - [Tamper monkey(TM)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)  
 1. TM scripts - [baidunetdisk api](https://www.youxiaohou.com/panlinker.user.js)  
 ## steps  
 use IDM to download(dl) baidunetdisk files steps:  
