@@ -104,4 +104,8 @@ vercel.com
 - [CMD和ENV区别](https://blog.csdn.net/weixin_45842494/article/details/123151006)  
 ---  
 ### 反编译
-- [python](https://blog.csdn.net/qq_34215281/article/details/122319278)
+- [python](https://blog.csdn.net/qq_34215281/article/details/122319278)  
+---   
+### python  
+-[pip升级失败1](https://blog.csdn.net/poorlytechnology/article/details/110914472)  
+-[pip升级失败2](https://blog.csdn.net/weixin_41450123/article/details/110244117)  
