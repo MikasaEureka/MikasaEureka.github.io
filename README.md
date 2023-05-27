@@ -1,10 +1,10 @@
 # 学习网站
 - [ ] 
-If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://MikasaEureka.github.io/sponsor/sponsor.html) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor/sponsor.html](https://MikasaEureka.github.io/sponsor/sponsor.html).
+If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [MikasaEureka Sponsors](https://www.buymeacoffee.com/nf6qphq9t6N) to support me, click the button. Your name will be shown at [https://MikasaEureka.github.io/sponsor/sponsor.html](https://MikasaEureka.github.io/sponsor/sponsor.html).
 
 <div align="center">
 <!--START_SECTION:sponsors-->
-<a href="https://MikasaEureka.github.io/sponsor/sponsor.html" target="_blank">
+<a href="https://www.buymeacoffee.com/nf6qphq9t6N" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="20%" align="topLeft">
 </a>
 <a href="https://MikasaEureka.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank">
