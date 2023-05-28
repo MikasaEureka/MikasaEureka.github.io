@@ -52,6 +52,7 @@ If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or �
 > - [WebHook结合GitHub Action与Coding实现博客持续集成部署到个人服务器](https://blog.csdn.net/weixin_44777255/article/details/120276596)
 > - [用 GitHub Actions 进行持续集成](https://course.rs/test/ci.html)
 > - [10 个你该了解的 GitHub Actions 进阶技巧](https://www.jianshu.com/p/022086076190)  
+> - [使用 Github Actions artifact 在 workflow job 之间共享数据](https://www.cnblogs.com/kklldog/p/github-actions-artifact.html)  
 ---
 ### VPS入门  
 > - [AWS实现定时任务-Lambda+EventBridge](https://blog.csdn.net/qq_41905051/article/details/125979892)
